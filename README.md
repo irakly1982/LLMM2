@@ -1,2 +1,2 @@
-|[Pagina web sobre Heavy Metal] | []|
+|Pagina web sobre Heavy Metal | []|
 
