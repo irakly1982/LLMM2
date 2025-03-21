@@ -1,1 +1,1 @@
-[Index]()|Crea una pagina con HTML
+[Index](Inicio.html)|
